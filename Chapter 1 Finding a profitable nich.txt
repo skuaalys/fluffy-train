@@ -1,0 +1,443 @@
+Chapter 1: Finding a profitable niche
+0:000 secondsOkay, this is actually how you make a Roblox game, a profitable Roblox game with AI. And as you guys saw in the
+0:077 secondstitle, this is no [ __ ] This is actually the method. I'm going to be spilling sauce, but you guys got to listen to me. But yeah, I'm going to keep the intro short. I'm just going to
+0:1616 secondsget right into it. First step, okay, first step, stop thinking your game is going to be the next big thing. You're
+0:2323 secondsnot going to get anywhere thinking that your your game is going to be the next big thing or copying another big game and it's gonna go viral. It's not gonna
+0:3232 secondshappen. There is a lot of people trying to get into Roblox development. They don't know [ __ ] about modeling, scripting, anything. And personally, I don't know [ __ ] about that [ __ ] either.
+0:4343 secondsUm, I just use AI and Claude and other AI agents to actually help me. First of all, this is where everyone starts to
+0:5151 secondsget everything wrong. They go look at [ __ ] steal an egg, steal a brain rot, and they're like, "Oh, what if I made steal a sushi, steal a steal a [ __ ]
+1:011 minute, 1 secondbird? It's not going to work." And you got to understand like this niche, the steal an egg, steal a whatever niche, this egg, this egg, that animal, this
+1:091 minute, 9 secondsanimal, that like it it could work, but it's just like your your games are [ __ ] Okay, let's be honest. Your games are [ __ ] is just another ripoff of the [ __ ] most popular game on Roblox.
+1:201 minute, 20 secondsYou're not gonna hit 500k CCU like Steel and Egg. You're not gonna hit a million CCU. Like, it's not gonna happen.
+1:261 minute, 26 secondsUnderstand what niche you're trying to get into. And still a games are not even the best [ __ ] niches on Roblox. I don't know why people are chasing big
+1:351 minute, 35 secondsCCU numbers. CCU does not equal to profit. I promise you guys. Here's a very good example. This was my first
+1:431 minute, 43 secondsgame, Incremental Peace. It was not a steal an egg, steal a brain rod, none of that [ __ ] This was my first game that
+Chapter 2: Targeting the right audience
+1:511 minute, 51 secondsI've made and I was actually profitable by making this game. And let me show you guys the amount of [ __ ] money I've
+1:581 minute, 58 secondsmade from this game. Before I show you guys the actual number, I know I'm kind of edging you right now, but this game
+2:042 minutes, 4 secondshad a peak CCU of 100 players. 100 players peak CCU. And I'm going to show you guys how much money I made from this
+2:132 minutes, 13 secondsgame. Boom. 1.9 million Robux. 1.9 million Robux from a 100 CCU. And if you
+2:212 minutes, 21 secondsput that into the DevX calculator, let me show you how much money that is. Is that 1.9 million? Hold on. One. Hold on.
+2:282 minutes, 28 secondsHold on, guys. Stick with me now. That's not Yeah, that's 1.9 million. That is 7,000 USD. And let me show you guys.
+2:362 minutes, 36 secondsThis game is still making 8,000 Robux in the last week. The last month it made 92,000
+2:432 minutes, 43 secondsRobux. And guess what? Guess what? Guess what? That's not even the crazy part.
+2:472 minutes, 47 secondsThe crazy part is that this game is at zero CCU. I mean, it's at 1 CCU right now. But look at the daily average.
+2:532 minutes, 53 secondsThere's about five players playing average and is making 90,000 Robux a month. And you might be wondering why
+3:003 minutesthis is even possible. How did you make a 100 CCU game and made 2 million Robux, right? So, let me show you guys the actual game. This is incremental piece.
+3:103 minutes, 10 secondsIt was made back in April 2026, which is not that long ago. That's like 6 months ago. It has only 500k visits, which is
+3:183 minutes, 18 secondsnot too bad. It's is a pretty good amount. And the reason why this game made so much money was because we targeted a specific age group that's not
+3:283 minutes, 28 secondskids. If you really think about it, kids don't really spend that much Robux on games. The people that are spending Robux, like thousands of Robux on games
+3:373 minutes, 37 secondsare usually teenagers to like adults, okay? Those are the people with money, those are the people with their own bank accounts that they can spend. And kids,
+3:463 minutes, 46 secondsthey have to go ask their parents for Robux. So, you're not going to make a lot of money um from kids. And I'm not saying you can't make money from games.
+3:533 minutes, 53 secondsYou can make a steal a [ __ ] game and make mad money from it, but it's just way harder. Why put yourself in such a
+4:014 minutes, 1 secondcompetitive niche that you can't compete in? And yes, you can have a good remake of Steal an Egg and have a good concept and your [ __ ] still won't go viral. Why?
+Chapter 3: The reality of game marketing
+4:114 minutes, 11 secondsBecause you actually need money to make a Roblox game. And that's one of the things that people don't tell you. If
+4:184 minutes, 18 secondsyou don't have money to invest in your games, to run ads, to bypass the 250 engagement players, you're not going
+4:264 minutes, 26 secondsanywhere. And let's say you don't have 50k Robux to buy the publishing fee.
+4:304 minutes, 30 secondsOkay, that's fine. At least have enough money or ad credits to spend ads on your game. If you think, "Oh, I can just buy
+4:374 minutes, 37 secondsa Claude Pro plan, make a [ __ ] game, and then release it with no ads. It's not going anywhere." For example, look, Steel A Fossil is running ads right now.
+4:474 minutes, 47 secondsYou can tell um they're getting paid.
+4:494 minutes, 49 secondsYou can you can tell by this like icon here. If I click on their game, if it says 16 plus, yes, it does say 16 plus.
+4:564 minutes, 56 secondsThis what I'm talking about. What 16-year-old is going to play [ __ ] steal a fossil? This is the You're targeting the wrong age group. It has
+5:035 minutes, 3 secondszero CCU, 800 visits, and they're running ads on it. There is no [ __ ] 16-year-old unless you're you're some
+5:105 minutes, 10 secondsstupid ass um I don't want to say the word. Unless you're unless you got special needs, you're no one is going to play your [ __ ] game if they're over
+5:185 minutes, 18 secondsthe age of 16. So, what I'm saying is this game, Steal a Fossil, is trying to target kids. They're trying to target a kid audience, but their game is
+5:275 minutes, 27 secondsrestricted to 16 plus. So, only 16 plus users are seeing their game. And tell me this, what [ __ ] 16-year-old is going
+5:345 minutes, 34 secondsto play your game? And I apologize for uh swearing so much. That's just uh my personality. But I'm just saying, guys, if you're making a kids game and you're
+5:435 minutes, 43 secondspushing that [ __ ] out to 16 plus users, really, use your minds. Use your minds.
+5:485 minutes, 48 secondsYou don't have enough Robux to pay the publishing fee. you you can you can only spend like what $16 a day on ads is not
+5:565 minutes, 56 secondsgoing anywhere. No one's going to click on your game. And plus the whole entire stealing niche is so saturated. This is
+6:036 minutes, 3 secondsliterally every single [ __ ] Roblox developer that's trying to get AI to do their work. So first they find idea. Oh,
+6:106 minutes, 10 secondsthrow food for animals. 100k CCU. Wait, what if I what if I make throw food for horses? Throw food for [ __ ] bats.
+6:186 minutes, 18 secondsThat's a smart idea. No one's ever done that. And then you go ahead and search up throw food for on [ __ ] Roblox. And
+6:256 minutes, 25 secondsthen you probably see, yep, throw food for [ __ ] varity. Throw food for anime. There's already hundreds of [ __ ] copies of this game. And this
+6:346 minutes, 34 secondsgame literally recently came out. It recently got popular. And look how many copies there are. The same [ __ ]
+6:416 minutes, 41 secondsthumbnail, the same concept. It's just different names. Why would someone play [ __ ] throw food for monsters if this
+6:486 minutes, 48 secondsis the same thumbnail? Literally the same thumb. No, they didn't even try.
+6:536 minutes, 53 secondsThey didn't even try. They have they have a different Phoenix model and it says Infernix. Like what the [ __ ] So, let's say you do make a very nice game.
+7:027 minutes, 2 secondsIt has a good concept. Let's say throw food for something and it's the smartest idea ever. Look at what you're competing against. Think of your game thumbnail on
+7:117 minutes, 11 secondsthis page right now. How many players are actually going to click on your [ __ ] game? There's already hundreds of throw food throw food games and
+7:207 minutes, 20 secondsthey're going to click on yours specifically. Why? Why are they clicking on yours? Okay, here's actually how you make a AI game. Okay, we got past the
+7:287 minutes, 28 secondsstep one, which is a good idea. Just don't make a [ __ ] copy of a kids game. It's never going to work if you don't have money. If you're don't if you
+7:357 minutes, 35 secondsdon't have money and you only have money to spend on ads, go for a older audience because the games are going to push to a 16 plus audience. It's [ __ ] common
+7:447 minutes, 44 secondssense. If you're if you don't have money to pay for the publishing fee to bypass the 250 engagement players, then you
+7:517 minutes, 51 secondsshould make a game that targets 16 plus users, shouldn't you? Okay, let's move on. We got past the idea, the the first
+Chapter 4: AI and workflow optimization
+7:587 minutes, 58 secondsstep of the um video, which is finding a good idea, finding a profitable niche that isn't saturated, so we don't want
+8:068 minutes, 6 secondsto compete against other people making hundreds of copies of the same game. And yeah, that's literally all you need. A
+8:138 minutes, 13 secondsgood idea, a good niche, and a profitable game. Think about monetization. Think about the idea.
+8:198 minutes, 19 secondsThink about how unique it is, cuz all those stats actually do matter. And here's what you actually need. Don't pay for [ __ ] Forge, GUI, Lemonade.gg.
+8:308 minutes, 30 secondsDon't pay for that [ __ ] It's It's propaganda. They're trying to They're making money from you buying subscriptions. You don't need that [ __ ]
+8:388 minutes, 38 secondsHere's three tools you will actually need. First, you need Claude. Either the pro plan if you're just trying to start out. Use get the pro plan, guys. If
+8:468 minutes, 46 secondsyou're just trying to start out, get the pro plan. Learn how to prompt. Learn the basics. Learn how to make a Roblox game.
+8:548 minutes, 54 secondsand then move on to a max plan. And then move on to a 20 max 20x max plan, which is like the highest tier you can get on
+9:039 minutes, 3 secondsClaude. And if you're even crazier, get multiple cloud accounts. Okay, the next tool you need is Obsidian. Okay,
+9:119 minutes, 11 secondsObsidian actually helps you is not propaganda. Is it's just like a workflow memory system. You can go tell your cl
+9:199 minutes, 19 secondsremember what we did from this game. go look into Obsidian from what we did from this game and copy it over to this game.
+9:259 minutes, 25 secondsLike let's say you had a really good system from one game, you can tell Claude to search through Obsidian Vault
+9:329 minutes, 32 secondsfor that exact same system and apply it to your new game. That's how Obsidian works. It workflow is a memory storage
+9:399 minutes, 39 secondssystem where Clyde can storage every step, everything it does into the vault.
+9:459 minutes, 45 secondsAnd here's what my Obsidian vault looks like. I'm not showing you guys [ __ ] cuz I'm gatekeeping the [ __ ] out of this vault. as well is good as [ __ ] Every game I've made, every system, every
+9:549 minutes, 54 secondsvideo I told to analyze, every VFX concept, modeling, animations, everything is put in here. So, let me
+10:0210 minutes, 2 secondsgive you guys an example of how you can use Obsidian Vault. Let's say I'm trying to think of a game idea, right? And I can't think of [ __ ] cuz I'm stupid as
+10:1110 minutes, 11 seconds[ __ ] and I all I can think of is steal the [ __ ] egg copies, right? Go tell Claude to analyze YouTube videos. You
+10:1810 minutes, 18 secondsguys love watching [ __ ] YouTube videos on Roblox developments. They get mad views. They get mad views. If you guys love it so much, go actually
+10:2710 minutes, 27 secondsanalyze it with Claude and say, read the transcripts cuz Claude can't watch videos. So, it needs to read the
+10:3410 minutes, 34 secondstranscripts of the video and say, "Remember everything this guy said." A really good YouTuber out there, Tizzy Roblox. I think you guys probably seen
+10:4210 minutes, 42 secondshim before, but the [ __ ] he says is actually facts and love the guy, bro. He He's just such a good guy. He He puts
+10:5010 minutes, 50 secondsout all the sauce out there. He gives you guys He basically makes the most transparent and the most uncensored content on Roblox development and yeah,
+10:5810 minutes, 58 secondsthe guy's amazing guy. He puts out all the sauce. He tells you how to make a good game. So, after you watch this video, go watch some Tizzy Roblox. I'll
+11:0611 minutes, 6 secondsalso link his channel down below if you guys want to go and study like analytics, anything that makes a good game he is talking about. So, I actually
+11:1511 minutes, 15 secondsdid this with my claude in Obsidian as well. I went and said go study every single one of Tizzy's video and one of
+11:2211 minutes, 22 secondsthe videos were how to make a good game or how to come up with a game idea. I forgot the name of the video, but something like that. And in the video,
+11:2911 minutes, 29 secondsit talks about how you need to have a very strong fantasy. Kids want to play your games when they can visualize your fantasy just off of the name of your
+11:3811 minutes, 38 secondsgame and the thumbnail of your game. If you can perfect this fantasy that you want to give out to kids, your game ideas will be 100 times better. So yeah,
+11:4711 minutes, 47 secondsI told Claude to read the transcripts of the entire video, it is now in my Obsidian vault. So every time I say help me research and find me a good game
+11:5611 minutes, 56 secondsidea, it would look through Obsidian Vault. Remember what Tizzy said in his video? It will give me a whole list of ideas that I can go off of. And don't
+12:0412 minutes, 4 secondsjust pick the best idea Claude gives you. Actually look at ideas. See how much potential it has. See if there's a
+12:1112 minutes, 11 secondsgood winning game out there with around the same concept. So when I was making incremental piece, there was this game called Fruit Piece. Incremental, right?
+Chapter 5: Game systems and quality
+12:2012 minutes, 20 secondsUm it has over 4.9 million visits. I know this guy made so much money. I actually know the owner. Um Dragon. He's
+12:2812 minutes, 28 secondsa pretty good guy. He invested in my game. So, I know this guy and he's made a [ __ ] ton of money, guys. He's made a
+12:3612 minutes, 36 seconds[ __ ] ton of money from this game. And I saw this game, right? And I actually played this game on stream um back in the days. I don't know the stream is up,
+12:4312 minutes, 43 secondsbut I play this game, my viewers, and I was like, "Damn, bro. This is like [ __ ] Cookie Clicker, but with One Piece and Roblox. This is the smartest
+12:5112 minutes, 51 seconds[ __ ] ever." And after like a month, the game kind of died down and it was around like what, like 20 CCU. Then I told my
+12:5912 minutes, 59 secondsfriend, "What if we made a incremental piece, a anime incremental piece for our first game?" It's It's not the hardest
+13:0613 minutes, 6 secondsgame to make. You can make it with AI, but AI was so [ __ ] back then. Holy [ __ ] Opus 4.5. I forgot what model it was. It
+13:1413 minutes, 14 secondswas the shittiest thing ever. I I would never go back. I I'd rather die. And there was another popular incremental game called JJK Incremental. I also know
+13:2213 minutes, 22 secondsthe owner of this game as well. Um I don't know if it's still here. Um I think it's this one. Both of these JJK games, um, incremental games are really,
+13:3113 minutes, 31 secondsreally popular. This one got 1.1 million visits, and this one got over 8 million
+13:3813 minutes, 38 seconds8 million visits, guys. 8 million visits off of [ __ ] 2D game. Incremental games are the easiest games on Roblox on Roblox. Especially if it's [ __ ] 2D.
+13:4813 minutes, 48 secondsSo, going back to Fruit Piece Incremental, we saw the game was kind of dying down and we're like, yo, what if we made a another one piece incremental,
+13:5713 minutes, 57 secondsbut make it 10 times better. Make the V effect actually good. I actually spend time on the systems, have unique systems
+14:0414 minutes, 4 secondsin our game. And our game actually had a really unique system, a summoning system. We had a summoning system, which
+14:1214 minutes, 12 secondsno incremental have because yes, they played fruit piece incremental. What makes our game different is that we made it 100 times better. We have concepts
+14:2014 minutes, 20 secondsthat other incrementals never seen before. So when players join your game and like, damn, bro, this is another One Piece incremental. But then they look
+14:2814 minutes, 28 secondsthrough the tabs, they see summoning, like, "Oh [ __ ] wait, I've never seen summoning system in an incremental game.
+14:3514 minutes, 35 secondsInstantly they're going to want to play the game. Instantly see the quality of this incremental. It's not another [ __ ] slot game that doesn't have
+14:4314 minutes, 43 secondsunique system. It was just another copy of the original incremental games, right? This is the third tool you need.
+Chapter 6: Using AI for design
+14:4914 minutes, 49 secondsFigma. Please, please, please use Figma.
+14:5414 minutes, 54 secondsI'm begging you, try it out. You don't even need a [ __ ] subscription. You just need the free version cuz you get
+15:0115 minutes, 1 second500 um AI credits, I think. I don't remember, but you get free generations using the free Figma version. So, it's
+15:0915 minutes, 9 secondscompletely free. This is what you use Figma for. You connect Claude to Figma using Figma MCP and you tell Claude,
+15:1715 minutes, 17 secondslet's say, oh, I want to generate some thumbnails or I want to generate some [ __ ] icons, generate UI, even UI. As
+15:2515 minutes, 25 secondsyou can see here, I made some UI with Figma and they actually look pretty good. All you need is a reference.
+15:3215 minutes, 32 secondsThat's I'm going to continue the list, but that's literally all you need. You just need a reference, bro. You can make insane art with Figma. Here's some anime
+15:4115 minutes, 41 secondscards I made for a anime card game that's coming out soon. Um, but yeah, this is insane, guys. I made this in
+15:4815 minutes, 48 secondsless than an hour. It made this in less than an hour because I used multiple claw agents to generate multiple cards
+15:5615 minutes, 56 secondsat once. So, I made around 250 cards in less than an hour. So, if you're making a game that needs art,
+16:0416 minutes, 4 secondsthat needs like cards like anime card games is a very good niche. If your game needs that, Figma is a really, really
+16:1116 minutes, 11 secondsgood tool. It's also really good for planning as well. If you have a full dev team, Figma can be really useful with um planning the game, the concepts, the
+16:2016 minutes, 20 secondscore loop, anything. Figma can do anything. It just can make your game. It can make anything from assets, um model
+16:2816 minutes, 28 secondsinspiration, literally it it helps you plan out your game and it helps you make pictures.
+16:3416 minutes, 34 secondsThat's literally it. And when people say you can't use AI for thumbnails, no one's going to click on it. Yes, you
+Chapter 7: Thumbnail and video strategy
+16:4016 minutes, 40 secondscan. Yes, you can. All you need to do is research your niche. Please research your niche. This is one of my games. Uh, Survive the Kaiju is kind of dead now.
+16:5016 minutes, 50 secondsUm, they spent over like 700 USD on ads, which is a lot of [ __ ] money, but
+16:5716 minutes, 57 secondslook at the look at the CTR. 6.9 6.1 5.4 5.4 5.2. This is really good CTR. I
+17:0617 minutes, 6 secondsthink average CTR is like one to two% and then like where it gets good is like 3, four, 5%. And this is very good CTR.
+17:1717 minutes, 17 secondsHere are the thumbnails I made with AI.
+17:2017 minutes, 20 secondsSo we got this thumbnail which actually looks pretty good cuz I told it to study like the art brushes, the strokes of
+17:2717 minutes, 27 secondsanother thumbnail and then copy the entire art style onto my kaiju game.
+17:3217 minutes, 32 secondsHere's another thumbnail that has really high CTR. Yes, this one looks like [ __ ] It looks like AI, but you got to think about it. You got to have thumbnails
+17:4017 minutes, 40 secondsthat attract kids and an older audience as well. Like, I would think this thumbnail attracts a lot of kids because they see you're running away from a
+17:4817 minutes, 48 secondskaiju. Is a military guy running away from a kaiju. And Gildora is one of the most popular kaijus out there other than like [ __ ] probably Kong and Godzilla.
+17:5917 minutes, 59 secondsSo, you really got to study the game and the niche you're going into. Like, this thumbnail already tells the fantasy of, you know, you got to survive from
+18:0818 minutes, 8 seconds[ __ ] God. You know what I mean? So, when people see this thumbnail with the title survive the kaiju, instantly they
+18:1518 minutes, 15 secondsthink, "Oh, I probably have to survive the kaiju." This is why this thumbnail has really good CTR. Same with this one,
+18:2318 minutes, 23 secondsguys. Same with this one. This one looks like dog [ __ ] In my opinion, it looks like [ __ ] trash. I would never play a game like this if it had this on the thumbnail. But it's not about me, okay?
+18:3318 minutes, 33 secondsIt's about the kids and the players that actually want to play. So, this one got 5.1% CTR. And you can't say that none of
+18:4018 minutes, 40 secondsthese got impressions. Look, all of these had over 100K impressions. This This one had 700,000 impressions. This
+18:4818 minutes, 48 secondsone has 600,000 impressions. And this has 4.7 CTR, which is really really good. And if you use Figma and actually
+18:5618 minutes, 56 secondsspend time making thumbnails, and guys, I promise you, I make over a hundred thumbnails for every single game. And I
+19:0419 minutes, 4 secondspicked like the best 10 thumbnails, and I run ads on those 10 thumbnails. You have to really make a lot of thumbnails
+19:1119 minutes, 11 secondsbecause AI is not going to get you the first time. It's not going to get you the second time, but it might get you the third time. So, if you generate a 100 thumbnails, maybe out of the
+19:1919 minutes, 19 secondshundred, there's 10 thumbnails that are actually good. You got to look at it.
+19:2319 minutes, 23 secondsYou got to do a QA test. What a QA test is, you got to look at it on a screen.
+19:2819 minutes, 28 secondsYou know, maybe have AI generate picture of all your thumbnails together and which one stands out to you the most.
+19:3519 minutes, 35 secondsLook through the thumbnails, see which one actually catches your attention and see if you would actually click on that game um by seeing that thumbnail. Here's
+19:4319 minutes, 43 secondsa mistake I made on this game I recently made uh called Anime Stickman RNG. Um, my investor spent around 200 USD on ads
+19:5319 minutes, 53 secondsand you know the CTR was dog [ __ ] except these two. Um, 2.8 and 2.3 is not that
+19:5919 minutes, 59 secondsbad. But look, a,000 clicks and only 25 players played. Why do you guys think
+Chapter 8: Monetization and growth
+20:0720 minutes, 7 secondsa,000 people clicked on the game but never played it? It's because I've realized that this game didn't have a
+20:1320 minutes, 13 seconds[ __ ] video. Oh my gosh, I feel so stupid. I actually feel stupid. And I've realized that having a video for your
+20:2120 minutes, 21 secondsgame is so important. People look at your page and they see the video, instantly they're seen with the game
+20:2920 minutes, 29 secondscontent, the game play, and that's what makes them play. If they're just seeing thumbnails and reading the description,
+20:3620 minutes, 36 secondsit might be boring. You know, people want to see actually with a video so they can visualize it. They can see themselves playing this game. So, I'm
+20:4420 minutes, 44 secondstelling you guys this right now. Don't make the same mistake as me. Please put a video in your game. Please. If you
+20:5220 minutes, 52 secondslook at the Kaiju game, this game has a video. Look, 400 clicks, about 300 plays. So that's around like 80% of
+21:0021 minutespeople actually play the game. Look, 1,800 clicks, 900 plays. That's half.
+21:0621 minutes, 6 secondsThat's half of the people that saw the I mean clicked on the game and actually pressed play. But yeah, one thing about prompting when you're making your games,
+21:1421 minutes, 14 secondsguys, is when you're prompting using Claude, please write down write it down in an essay, go to Chatbt, say, "Enhance
+21:2321 minutes, 23 secondsthis prompt for me for Claude." I promise you it works. It will give you a longer, more detailed prompt, and just
+21:3121 minutes, 31 secondskeep prompting, okay? Keep prompting until your game is good. I'm not going to talk much about prompting in this video, um, cuz I'm running out of time.
+21:3821 minutes, 38 secondsThis [ __ ] recording is already 30 minutes long. I'm probably going to edit it. Um, it's going to be a long ass video. I might make another video about
+21:4621 minutes, 46 secondsprompting, how to actually use claw to prompt, but this is just like the first step. You guys got to really think of a
+21:5221 minutes, 52 secondsgood game idea. Think about the three tools I talk about. Think about how to find a good game idea. You guys need to
+22:0022 minutesbe in a good profitable niche. Don't think about the most popular niche.
+22:0522 minutes, 5 secondsThink about what actually can make you profit. What can get you maybe 500 CCU, but you're making [ __ ] 2 million
+22:1322 minutes, 13 secondsRobux a [ __ ] month from 500 CCU, which is possible if you're targeting a specific audience, if you're making your
+22:2222 minutes, 22 secondsmonetization good. One thing I learned about monetization is if you made game passes a must need to buy, people are
+22:3022 minutes, 30 secondsgoing to buy it. So for incremental piece that would be every single game pass. We had a autoplay game pass. We had a [ __ ] I don't know two times
+22:3922 minutes, 39 secondsgems game pass. We had bundles that gave you gems that gave you [ __ ] hockey scrolls which you use to spin your
+22:4722 minutes, 47 secondshockey, spin your race. We had all these dev products inside our monetization that puts players in a situation where
+22:5522 minutes, 55 secondsthey're like, "Fuck, I'm about to buy this [ __ ] If I don't buy this, I can't progress in this game faster than this guy. Roblox is really competitive and
+23:0423 minutes, 4 secondsyou really have to think outside of the box to even have a profitable game. You don't need 100,000 CCU to make a profit.
+23:1223 minutes, 12 secondsYou don't need [ __ ] You don't even need a,000 CC. You can make a good profitable game that makes 2K a month off of literally 100 CCU. I promise you
+23:2223 minutes, 22 secondsguys. I promise you. Also, if you guys want to join my Discord community, um I'm going to be helping some people out, but I'm not going to help too much
+23:2923 minutes, 29 secondspeople cuz that's really annoying. I don't have time for that [ __ ] But I'm going to be helping some people out with their games, you know, analytics, anything you guys need. But yeah, join
+23:3723 minutes, 37 secondsmy community. U maybe you guys will meet some new people, too. You know, one thing about Discord communities, like Roblox development, Roblox communities
+23:4523 minutes, 45 secondsis not for the sauce. It's not for the information. It's for the connections, the networking. You can find new
+23:5223 minutes, 52 secondsdevelopers. You might be able to find investors that want to invest your game.
+23:5623 minutes, 56 secondsThis is really good to be in a Roblox development um Discord. But yeah, I'm just going to be making one real quick and I'll send it in the description of
+24:0524 minutes, 5 secondsthis
+
+Chapter 1: Visual and sound design
+0:000 secondsOkay, this is the psychology behind Nintendo games and how to actually apply it to your Roblox game. Okay, Nintendo
+0:077 secondsis one of the biggest gaming company, if not the biggest gaming company out there in the world. Everybody watching this
+0:1414 secondsvideo knows exactly what and who Nintendo is and what type of games they have made. And in my last video, somebody said my videos looked really
+0:2323 secondsunedited. So, I got kind of pissed. So this time I'm going to actually try to show you guys exactly what I mean so you can apply this to your own Roblox game
+0:3131 secondsand you understand exactly what I'm trying to say. Okay, let's start with this. 99% of Roblox games look like
+0:3838 secondscomplete dog [ __ ] Okay, it doesn't feel smooth. It doesn't feel satisfying when you complete something. And that is
+0:4646 secondsexactly what a lot of Roblox games are lacking. One thing Nintendo does really well is sound effects. you know, sound
+0:5353 secondsdesign, all that, V effects, and visual feedback. And all these metrics really do matter when you're trying to make a
+1:011 minute, 1 secondRoblox game or any game in general. One thing that nobody talks about, and I'm [ __ ] pissed that nobody talks about this, is the visual feedback in your
+1:101 minute, 10 secondsgame. I need to, if I'm a player, right, I need to visually see that I'm getting better at the game or I'm progressing in
+1:181 minute, 18 secondsthe game or I got something rare, I did something good in the game. You have to give visual feedback. If players can't
+1:251 minute, 25 secondssee that, your game is going to be dog [ __ ] Cuz why would somebody play a game with no visual feedback and they did something good in the game and they
+1:331 minute, 33 secondsdon't even know they did something good in the game? And that's when you start to use sound effects and visual feedback to show players that, oh, you did this,
+1:421 minute, 42 secondsyou did that. And you know, that makes your game 100 times better. Instantly.
+1:471 minute, 47 seconds100 times better. I promise you instantly your game is going to be a hundred times better. Okay, read this real quick. Fun is getting better at
+1:541 minute, 54 secondssomething. I'm going to let you sit for 5 seconds and think about that. Fun is getting better at something. What does that mean? Whether it's progressing
+2:022 minutes, 2 secondsthrough your game, that is fun. Or getting better at your game. Let's say you're making a FPS game or like Bladeball. You got to get better at the timing. You got to get better at your
+2:112 minutes, 11 secondsaim, whatever. This is the main thing that attracts players. Okay? And when a player gets visual feedback that they're
+Chapter 2: Player engagement principles
+2:192 minutes, 19 secondsgetting better at your game, let's say you got a good hit, right? You you put nice hit, big ass nice hit text on your
+2:272 minutes, 27 secondsgame that shows players that they did a nice hit in your game. Or let's say you're making a timing game and somebody
+2:342 minutes, 34 secondstimed it perfectly. You should have visual feedback to show players that they timed it perfectly. This matters so
+2:412 minutes, 41 secondsmuch and nobody is talking about it. And here's another thing, right? Games feel good when they show you that you mattered in the game, that you did something for the game, that you
+2:492 minutes, 49 secondsbelonged in the game. And Nintendo does that with almost everything. And here's what I mean when I say show the players that they mattered in your game, right?
+2:572 minutes, 57 secondsSplatoon, a very popular Nintendo game.
+3:003 minutesI used to play this [ __ ] back in the days. It's the [ __ ] best FPS game ever. You shoot the floor and it turns your color, stays that way. You can
+3:083 minutes, 8 secondsliterally see your work. I actually have a video here. I can show you guys some um Splatoon gameplay.
+3:193 minutes, 19 secondsOkay, I'm going to stop there. In that 5 seconds of that video I just played, there is a lot of things happening.
+3:263 minutes, 26 secondsSounds are coming through your headphones, visual effects. You're literally seeing ink and [ __ ] explode everywhere. And it's not overwhelming to
+3:343 minutes, 34 secondsthe point where players are like, "Fuck, there's so much [ __ ] going on." Because they process it. They're able to process what is going on. And this is what I
+3:413 minutes, 41 secondsmean when I say make your players feel like they matter in your game. Splatoon, you see this? This purple guy is pitting
+3:493 minutes, 49 secondsthe entire map purple. They matter in the game because they're making progress for their team. But yeah, Splatoon was a very successful game. You guys should
+3:563 minutes, 56 secondsreally study how they actually give visual feedback and how they sound design their game to where it's really satisfying and you can play for hours and hours. Okay, here's another example.
+4:084 minutes, 8 secondsWe have Rock A and Rock B. Notice the difference.
+4:134 minutes, 13 secondsThere is no difference, you [ __ ] idiot. Okay, rock A and Rock B, right?
+4:174 minutes, 17 secondsThe same [ __ ] rock. If I hit rock B with the pickaxe and nothing happens, right? And I hit rock A with a pickaxe and boom, explosion, effects, sound
+4:264 minutes, 26 secondseffects. Which one is going to be better for your game? Obviously rock A. Okay, obviously rock A. If I hit this rock
+4:334 minutes, 33 secondswith my [ __ ] pickaxe and effects start popping up, sound effects start boom boom boom boom boom instantly. Rock
+4:414 minutes, 41 secondsa game is going to be better than rock b game. All right, let's move on. This is the do ray method. Do ray me. Do ray me
+Chapter 3: The do-re-mi method
+4:494 minutes, 49 secondsfaso. Okay, this method works for any sort of game. And this is how you actually apply the dome method to your
+4:584 minutes, 58 secondsgame. Okay, this is actually not a method. I made this [ __ ] up. But it works. It works. That's all you guys need to know. So, let's say somebody is collecting coins in your game. Okay?
+5:075 minutes, 7 secondsLet's say this is a murder mystery 2 game where you got to collect coins.
+5:105 minutes, 10 secondsOkay? If you make the coins go, "Do me." Okay, I'm not really good at singing, but you know what I mean, right? If you
+5:185 minutes, 18 secondspitch up the tone of the sound effect every single time you collect the coin, it would sound 100 times better. And
+5:255 minutes, 25 secondsthis is not just for coins. You can apply this method to when you're doing something big, when you're doing something in in a massive volume, like
+5:335 minutes, 33 secondscollecting coins is one of the best examples I can give you guys. So, if you're still not understanding what I'm talking about, let's say you collect this coin, it goes do and you collect this coin, it goes ray and then me.
+5:445 minutes, 44 secondsObviously, it will sound better than my [ __ ] voice, but you know what I mean, right? You pitch it up every single time you collect the [ __ ] coin and it will sound a 100 times better. Make your game
+5:535 minutes, 53 seconds100 times better. Okay, let's talk about suspense. Okay, suspense matters so much. Holy [ __ ] A lot of people make
+Chapter 4: Building game suspense
+6:016 minutes, 1 secondstill an egg copy, still a brain rock copies, but they don't understand how to show players suspense. Okay, what I mean by that? Okay, let's say you're making a
+6:106 minutes, 10 secondsstill an egg game, right? You grab the egg and you go back to your plot and you plot it down. When that timer goes off and you can open that egg and there's no
+6:186 minutes, 18 secondssuspense, it just pops instantly and shows the the item you get inside the egg or the animal you get inside the egg. That is visually boring. That is
+6:276 minutes, 27 seconds[ __ ] boring. And how you can apply suspense to your game is let's say you're making a still an egg copy, right? When you open the [ __ ] egg,
+6:346 minutes, 34 secondslet's say it shakes a bit, you know, maybe three times, then it cracks, then it cracks, then it cracks, and then it builds up and then players are like,
+6:426 minutes, 42 seconds"Fucking, show me what is inside the egg." That is how you put suspense in your games. Let's just call this the edging
+6:516 minutes, 51 secondssystem, cuz you're really trying to edge your players, okay? You're trying to edge your players. You don't want to show them what they got until they're on
+6:596 minutes, 59 secondstheir knees and begging you to show them what they got. Okay? That's how you build suspense. That's how you keep players playing your [ __ ] game.
+7:067 minutes, 6 secondsHere's another Nintendo game, Legend of Zelda. Really popular, probably one of the most famous games on the internet. Okay.
+7:237 minutes, 23 secondsBoom. Instantly feel the suspense. The chest open up slowly, slowly, slowly.
+7:277 minutes, 27 secondsAnd the music just makes the suspense really, really good. This is what players want to see. This is what
+7:357 minutes, 35 secondsplayers stay for. Okay, so if you're actually trying to get into Roblox development, you need to really perfect
+Chapter 5: Mastering core metrics
+7:437 minutes, 43 secondsyour sound design. Every single sound in your game matters. You can't use AI for sound effect. AI cannot help you with
+7:517 minutes, 51 secondssound effects. It's going to sound like [ __ ] dog [ __ ] You really have to do this by yourself. Sound effects matter
+7:587 minutes, 58 secondsso much. If you can perfect sound effects, visual feedback, and suspense, your game is going to be 100 times
+8:078 minutes, 7 secondsbetter. And I promise you, the top five Roblox games on Roblox right now has already perfected all three metrics. And
+8:158 minutes, 15 secondsthat's why their game is so popular. So that's why players can play for hours and hours and hours and hours because they perfect the sound effects. They
+8:228 minutes, 22 secondsperfect the visual feedback. They show the players what they got. They show the players that they're getting better at the game. And they have suspense in the game. They don't instantly show the
+8:318 minutes, 31 secondsplayers the reward. They build up the suspense, make players really, really want to piss their pants and then show them what they got. Okay? If you're
+8:398 minutes, 39 secondsexpecting your game to go viral with the shittiest sound effects, the shittiest visual feedback, and no suspense, you might as well just apply for a job at
+8:478 minutes, 47 secondsMcDonald's. Cuz really, if you if you're skipping past these three steps right here, go apply for a job at McDonald's, okay? Roblox is not for you. And I'm
+Chapter 6: Progression and monetization
+8:568 minutes, 56 secondsgoing to go off script here cuz this is nothing to do with Nintendo. But somebody in my Discord asked me, right, how do you force players to buy your
+9:049 minutes, 4 secondsgame passes without making the progression extremely pay to win? Okay, this is exactly how you do it. First of all, you need to hook your players to
+9:119 minutes, 11 secondsthe game. Whether that's with onboarding, the tutorials, right? You got to show players how to play your game. And after the onboarding, this is
+9:189 minutes, 18 secondsa really, really good method. Give players maybe like a 15minute boost.
+9:239 minutes, 23 secondsGive new players a 15-minute boost, a 30-minute boost. And when you give new players a 15 30 minute boost, maybe like
+9:309 minutes, 30 secondstwo times luck if you're making an RNG game or two times coins, two times gems, whatever it is, when you give players this boost, it's going to help them
+9:389 minutes, 38 secondsprogress faster. And I always say this, make the early game progression extremely fast. But when you're going to mid game and late game, make the
+9:479 minutes, 47 secondsprogression harder. That's when players realize like, [ __ ] maybe I got to buy game pass. I'm not progressing as fast as this guy. I'm not progressing as fast
+9:569 minutes, 56 secondsas I was when I had this two times boost. When I had this [ __ ] early game boost, right? That's when they realize that they have to buy game
+10:0510 minutes, 5 secondspasses or buy death products. Let's say you have potions, boost potions your game. So, if you make early progression extremely easy and you give them a
+10:1310 minutes, 13 secondsboost, it's going to make progression extremely fast in the early game, right?
+10:1810 minutes, 18 secondsAnd when you make midame and late game extremely hard, players feel like they're stuck in this wall, okay? It's like a hard stuck wall. They they're not
+10:2610 minutes, 26 secondsprogressing as fast as they were when they first started the game. It's going to make them [ __ ] mad. This is psychology, okay? You make the game
+10:3410 minutes, 34 secondseasy, then you make the game harder, then they're going to make a decision whether to buy your game passes or your dev products. Let's say you have potions, right? They're going to buy
+10:4210 minutes, 42 secondsyour dev products. And no one talks about this because it's so gatekeep. But Roblox is a game of psychology. You're trying to attract players. You're trying
+10:5010 minutes, 50 secondsto convince players to buy your products, to play your games, to stay long in your games. And you really need to study every single metric to make a
+10:5910 minutes, 59 secondsgood Roblox game for the Roblox algorithm to even push out your game.
+11:0311 minutes, 3 secondsOkay. And another thing about Roblox monetization, player conversion rate.
+Chapter 7: Optimizing conversion rates
+11:0711 minutes, 7 secondsOne of the most important stats. Roblox only cares if your game makes people play your game and stay for a long time and if they're spending money on your
+11:1511 minutes, 15 secondsgame. So player conversion rate is one of the stats Roblox look for. Okay. How you want to improve your player conversion rate is through starter
+11:2111 minutes, 21 secondspacks. Cheap rebyable developer products. So let's say you have a two times luck potion, right? You make it nine Robux. More players are going to
+11:2911 minutes, 29 secondsbuy it. That's going to up your player conversion rate. Or you can do a time limited. This I like to do this for my game. a limited time starter pack. Let's
+11:3811 minutes, 38 secondssay you only have 72 hours to buy the starter pack and it's 27 Robux. More people are going to be attracted to that game pass or to that bundle starter pack
+11:4611 minutes, 46 secondsthan, you know, a 200 Robux game pass because it's only 27 Robux. So, more people are going to buy it, which
+11:5411 minutes, 54 secondsboostes your player conversion rate and is one of the most important stats that Roblox look for. So, next time you make a Roblox game, really attract players to
+12:0212 minutes, 2 secondsthese cheap products, to these cheap bundles. So, they're going to buy it.
+12:0612 minutes, 6 secondsWhen they buy the [ __ ] product in your game, your player conversion rate is going to go up. If multiple people buy your [ __ ] product, your player
+12:1512 minutes, 15 secondsconversion rate is going to be extremely good. This is why you make cheap bundles and cheap developer products that rebyable because if they can reby it
+12:2312 minutes, 23 secondsmultiple times, this also increases your stats and your metrics. Okay. Okay.
+Chapter 8: Strategic pricing psychology
+12:2912 minutes, 29 secondsAnother thing that people don't tell you is to price your game passes and developer products based on these Robux
+12:3612 minutes, 36 secondspackages. Okay, let's say you have a game pass, right, for $3.99 and somebody has to buy this pack to buy your [ __ ]
+12:4512 minutes, 45 secondsgame pass, right? They they will have 100 Robux left over. Okay, 100 Robux in your [ __ ] account is useless. You're
+12:5212 minutes, 52 secondsnot going to do [ __ ] with 100 Robux. So, why not price it to $4.99 and make you more money? Because players will
+12:5912 minutes, 59 secondsliterally spend the extra 100 Robux just for that one game pass if your game pass is good, right? Make sure your pricing can make you the maximum amount of Robux
+13:0913 minutes, 9 secondsyou can get. Milk the [ __ ] out of these Roblox players, okay? And here's a very good example on pricing your bundles and
+13:1613 minutes, 16 secondsgame passes based on the Robux packages, right? You see how our all the game passes are pretty around the same range
+13:2313 minutes, 23 secondsas the Robux bundles. Let's say you want to buy the all game passes bundle, right? If you want to buy this, you have to buy this pack, which is just the
+13:3213 minutes, 32 secondsright amount. And when players see that it's just the right amount, they're going to buy this. You're going to get so much more Robux than pricing this at
+13:3913 minutes, 39 seconds1,700, let's say, cuz they're going to have 300 Robux remaining when you could have got 300 Robux. All right, that's all I want to talk about in this video,
+13:4713 minutes, 47 secondsguys. Hopefully, you take what I say and you actually apply to your games. Also, I'm going to be linking my Discord in the description. I have a Discord
+13:5513 minutes, 55 secondscommunity. I'm going to be helping people out with their games and you can find connections um with investors and other developers. You know, it's just good to be in a community where people
+14:0414 minutes, 4 secondsthink like you. They're likeminded and they're all trying to do the same thing as you, which is Roblox development. So, yeah, join my Discord, guys. I'll see you guys.
+
+Chapter 1: The competitive reality
+0:000 secondsRoblox paid developers $1.5 billion dollar in the last year. Okay, calm down. Do not pull your [ __ ] out of your
+0:099 secondspants. But this is a lot of [ __ ] money, right? Even a small fraction, a small percentage of this money is a lot
+0:1717 secondsof [ __ ] money. I mean, look at this, right? This is a lot of money. And you probably want a percentage of this money. If you're not, I don't know why
+0:2525 secondsyou're watching this video. Get the [ __ ] out of here. But if you're watching this, I'm guessing you want a percentage of this money, right? That's what we're
+0:3434 secondsall working towards, right? But the thing is, your games are [ __ ] dog
+0:3838 seconds[ __ ] Your ideas are [ __ ] dog [ __ ]
+0:4040 secondsokay? No one is ever going to play your game because of how dog [ __ ] your idea and your game is. And in this video, I'm
+0:4949 secondsgoing to be telling you guys a lot of information. Literally like since my last upload, that was like around a week
+0:5656 secondsago, I've been jotting down notes on everything that I want to say in this video. So, listen up. Okay, first I need
+1:061 minute, 6 secondsyou to understand this is a very competitive market. Is not just I make
+1:131 minute, 13 secondsgame, run ads on game, make money. That is not how it works. If that if Roblox
+1:201 minute, 20 secondsdevelopment was that easy, I promise you all of us would have been rich a long time ago. I need you to understand that this is a very competitive market. Okay?
+1:301 minute, 30 secondsAnd before this video starts, make sure you guys join my Discord. We're about to hit 1,000 members inside of Discord, which is insane. And yeah, there's a lot of people like you trying to do exactly
+1:391 minute, 39 secondswhat you're trying to do. So, it's just great to be in a community where people are thinking like you are trying to do the same thing as you. And I'm also going to be helping people out with
+1:481 minute, 48 secondstheir games, giving them tips and stuff like that. So, make sure you guys join the Discord. I'm going to link it in the description and inside the comments as
+1:561 minute, 56 secondswell. If you are just starting out on Roblox development, you cannot compete in this market. I promise you, you are a goldfish in a large ocean of [ __ ]
+2:052 minutes, 5 secondsmegalodons. You don't have what it takes to compete in this market. All right, let's get into it. The intro was really
+Chapter 2: Finding profitable niches
+2:122 minutes, 12 secondslong because I want you guys to understand there is probably a 1% chance you will ever make a single dime on
+2:202 minutes, 20 secondsRoblox. Okay, but this is the best niches/ games to get into on Roblox right now. And we can actually check
+2:272 minutes, 27 secondsthis, right? There is a page called top earning on Roblox and this is basically showing you Roblox wants to show you
+2:352 minutes, 35 secondswhat type of games makes money. What type of games on Roblox makes the top amount of revenue, right? Here are the
+2:422 minutes, 42 secondstwo most profitable niches on Roblox currently. Okay, there is anime and FPS games. You will make a [ __ ] ton of money
+2:522 minutes, 52 secondsfrom 5K CCU if your game is anime or FPS and your monetization is good. Okay, put
+2:592 minutes, 59 secondsthat in your mind. But obviously with these two niches making a lot of money on Roblox and this is not no private information. And this is not insider
+3:073 minutes, 7 secondsinformation. This is known, okay? It's literally on the Roblox [ __ ] platform. Anime FPS makes the most money on Roblox. And because it makes so much
+3:163 minutes, 16 secondsmoney, there is going to be a lot of competition. FPS is the number one most competitive niche. If you ever want to
+3:243 minutes, 24 secondsmake an FPS game, put that in mind. It is the number one most competitive niche on Roblox. Okay, now that you know anime
+3:333 minutes, 33 secondsand FPS are the two most profitable niches, I want you to understand this.
+3:393 minutes, 39 secondsThere is a lot of ways you can tackle this. Okay, it's not just make a FPS game. There is a whole rabbit hole, a whole iceberg tower of what you can do.
+Chapter 3: Market opportunities
+3:513 minutes, 51 secondsOkay, now let's say you don't want to make a anime game. You don't want to make a FPS game. Okay, cool. You can still make a [ __ ] ton of money making
+3:593 minutes, 59 secondsother games. For example, the ragd doll community has been [ __ ] popping off.
+4:044 minutes, 4 secondsYou have ragd doll soccer. You have uh realistic ragd doll engine. You have [ __ ] ragd doll MMA. The ragd doll
+4:114 minutes, 11 secondsniche is popping off right now. This is a whole new wave, a whole new community, a whole new opportunity for you to make
+4:194 minutes, 19 secondsa [ __ ] ton of money. So, take this opportunity, see what other ragd doll games out there, see what has been done.
+4:264 minutes, 26 secondsmake the ragd doll game and maybe you'll make some money. And look at this game.
+4:314 minutes, 31 secondsRun a Christmas tree lot. I know this game popped up um from Tik Tok cuz I seen it on Tik Tok, but they're taking Christmas, which is the most popular
+4:394 minutes, 39 secondsholiday in the world. You can search this up, right? Christmas is the most popular holiday in the world. They're taking the opportunity. They're they
+4:484 minutes, 48 secondsknow that Christmas is coming up next month. So, they're taking this opportunity making a Christmas game and that's why it's doing so well right now
+4:564 minutes, 56 secondsbecause people understand Christmas is coming up next month and there is so many different holidays you can base your game off. Roblox is a company.
+5:055 minutes, 5 secondsRoblox is a business. This is a market.
+5:085 minutes, 8 secondsOkay? You have to supply the demanded games that people want to play. And if you're just going to copy [ __ ] slop
+5:155 minutes, 15 secondsgames, slop AI games, and you think you're going to do well, well, you're not because the demand has already been
+5:225 minutes, 22 secondssupplied. The the need to play Throw Food for Animals has already been supplied, which is why your copies of another slot game will never do well.
+Chapter 4: Targeting the right audience
+5:325 minutes, 32 secondsSo, really, what I want you to take from this video is to study the community and audience you're trying to get into. Are you trying to target kids? Are you trying to target an older audience?
+5:425 minutes, 42 secondsbecause that's two different audiences you're trying to target. And one thing I really like to do and and say is if
+5:495 minutes, 49 secondsyou're around that age, let's say you're around 16 to 18, right? Try to target the age audience of 16 to 18 year olds
+5:585 minutes, 58 secondsbecause you understand what games are fun to you. You're around the same age.
+6:036 minutes, 3 secondsYou understand what games are fun. So you can make a game based on what you think is actually fun. Do not make a game that you don't think you're going
+6:116 minutes, 11 secondsto play. If you're 16 to [ __ ] 20 years old making slop games and you will never play your own slop game, it will
+6:196 minutes, 19 secondsnever do well. I promise you. So, I'm saying find a community you can understand. Find a community you're
+6:256 minutes, 25 secondsalready in, okay? And make a game based on that community. That's how you make a profitable game. That's how you come up with a good game idea is if you
+6:346 minutes, 34 secondsunderstand the community already. If you're in the community already and you understand the demand that these players want, let's talk about anime. Okay,
+Chapter 5: The power of strong branding
+6:436 minutes, 43 secondsanime is a really good niche to get into. And the reason why anime is not the number one most competitive niche on
+6:506 minutes, 50 secondsRoblox is because there is so many different ways you can tackle a anime game, right? I mean, there is anime adventures, which is anime tower
+6:596 minutes, 59 secondsdefense. You can target a specific anime like Blox, how it targets One Piece, Attack on Titan Revolution, how it attacks um Attack on Titan, right?
+7:087 minutes, 8 secondsBloodlines, Naruto, and the list goes on. There is so many different ways you can tackle a anime game. It makes the
+7:167 minutes, 16 secondspossibilities almost infinite. And there's actually a trend here on the top earning with anime, right? All these
+7:247 minutes, 24 secondsgames are really, really old. All these games came out years ago, okay? And all these years they've been building up
+7:317 minutes, 31 secondssuch a strong community and that's exactly how they make so much money because they have convinced the
+7:387 minutes, 38 secondscommunity that the game is good. They have convinced so many people to play their game. They have so much love for
+7:477 minutes, 47 secondsthe game and that's why these games will never die. maybe Anime Adventures. It it has died multiple times um because of
+7:557 minutes, 55 secondsthe owners and developers, but I'm talking about Bloxs, Attack on Titan Revolution, and Bloodlines. Bloodlines
+8:028 minutes, 2 secondsis such a great example, and Bloodlines is such a great example of a unique way to tackle the anime community. Okay,
+Chapter 6: Case study: Bloodlines
+8:108 minutes, 10 secondsBloodlines used to be a close community game, meaning that it wasn't always public to the Roblox platform. You used to not be able to play Bloodlines. you
+8:198 minutes, 19 secondshave to be a tester or in that close community to even play the game. And because Bloodlines is close community, a
+8:278 minutes, 27 secondslot of YouTubers and content creators started making videos on the game, which got a lot of traction for the game. So
+8:348 minutes, 34 secondswhen the game publicly released, it was really, really popular. And throughout all these years, Bloodlines has just
+8:418 minutes, 41 secondsbeen stacking up such a strong community. And that's the key. That's the key to making so much money on Roblox is to have a strong community.
+8:518 minutes, 51 secondsYes, this takes so many years. Yes, this takes a lot of planning, which is why I'm showing you guys you can't just one-shot a game, publish it, and make
+8:598 minutes, 59 secondsmoney. There is a lot of planning that goes into this. And the reason why I'm using Bloodlines as a good example is because it has 6,000 active users, but
+9:089 minutes, 8 secondsis making so much money and is literally on the top earning page on Roblox with under 10k CC, which is insane. By the
+9:179 minutes, 17 secondsway, first of all, Bloodlines really understands their audience. Their audience is a really, really old audience. I think I've seen people that
+9:259 minutes, 25 secondsare over the age of 30 playing [ __ ] Bloodlines because it was so good. It has perma death. The monetization is
+9:329 minutes, 32 secondsinsanely [ __ ] expensive. You literally have to pay to play the game.
+9:369 minutes, 36 secondsI think the game's at like 800 Robux. I forgot the number. I think it is 800.
+9:419 minutes, 41 secondsYou have to pay 800 Robux to play the [ __ ] game. It's insane. There's so much psychology that goes behind this game. Bloodlines understands their
+9:509 minutes, 50 secondscommunity so well. They understand that the community are [ __ ] stupid. They will pay for anything like [ __ ]
+9:579 minutes, 57 secondsclans, um, customization, cosmetics, pay for revives because the game is perma death, right? If you
+10:0410 minutes, 4 seconds[ __ ] die, you're going to lose all the [ __ ] you have. So, they have a reincarnation system. They have so many different systems that makes this game
+10:1410 minutes, 14 secondsso much money. And the thing is, you can't pay to win this game. That's the thing. You can spend a million Robux on
+10:2110 minutes, 21 secondsthis game and you still can't pay to win this game because you actually have to spend the hours and time to progress through your clan. For example, the
+10:2910 minutes, 29 secondsUchia clan, you got to get the shing gun. You got to play with your friend to get the mango sharing gun. There is so many different systems that makes the
+10:3610 minutes, 36 secondsgame play fun. And the PVP, the clans, the competition in this game just makes the game 10 times better. For example, right, let's say you max out this game.
+Chapter 7: Monetization and psychology
+10:4510 minutes, 45 secondsThere's no more things to do. You can make a new slot, go a completely different path this time. You can go a completely different [ __ ] clan this
+10:5310 minutes, 53 secondstime and have a whole different experience just because you want a different clan and a different build.
+11:0111 minutes, 1 secondAnd this is why Bloodlines has such a strong community. There is so much content. There's so much different paths you can go because you're building your
+11:0911 minutes, 9 secondsspecific build. Every build feels unique because there are so many different clans. There's so many different concepts like Taiutu, Njutu, there's so
+11:1911 minutes, 19 secondsmany different ways you can make your build unique and special. And this is why it has such a strong community. And with perma death, meaning that you lose
+11:2811 minutes, 28 secondsyour everything you have if you die too many times, players have this sense of, oh, if I die too many times, I'm going to lose my progress and my items. And
+11:3711 minutes, 37 secondsthis is why this game is so special and it has such a strong community because with this risk factor, right, it targets
+11:4411 minutes, 44 secondsan older audience. Mo usually kids wouldn't even play games like this because what kid wants to play a game where you lose everything in the game if
+11:5211 minutes, 52 secondsyou die too many times. They're just going to go back to [ __ ] throw food for animals, right? And because this game has such a strong and old audience,
+12:0112 minutes, 1 secondit makes them so much money. And I've said this time and time again. With an older audience, you're going to make so much more money because they have their
+12:0812 minutes, 8 secondsown bank accounts. They have a source of income and they have [ __ ] you money to spend. They have adult money to spend on
+12:1612 minutes, 16 secondsyour game. And the reason I say the anime niche has a infinite amount of possibilities, the infinite amount of ideas is because you can apply anime to
+Chapter 8: Combining concepts for success
+12:2412 minutes, 24 secondsanything. For example, these two anime ragd doll games, right? They see that the ragd doll niche is going insane. The
+12:3112 minutes, 31 secondsragd doll niche has been popping off in the last month or so. They made a copy with the name anime in it and it's doing
+12:3912 minutes, 39 secondsinsanely well. All you have to do is put anime plus the game idea. Instant viral instantly. Okay. I mean, there's a lot
+12:4712 minutes, 47 secondsmore that goes into it. But there you go. That's your game idea right there.
+12:5112 minutes, 51 secondsPut anime in front of any [ __ ] viral game. You already know the core gameplay works. You already know the [ __ ] community loves it. So, you just got to
+12:5912 minutes, 59 secondsput anime in front of it, right? that targets a whole new audience and that's how you make a good game idea. That's how you come up with a good game idea.
+13:0613 minutes, 6 secondsOkay, and I've been seeing this game pop off lately. Survive a cycle. Okay, this game targets the cyberpunk community.
+Chapter 9: Identifying current trends
+13:1413 minutes, 14 secondsThey seen that there is no good cyberpunk game on Roblox. They seen that the new season is coming out. They took the opportunity, made a [ __ ]
+13:2213 minutes, 22 secondscyberpunk game, and it's doing insanely well is at 3,000 active players. They know that this community is so strong.
+13:3013 minutes, 30 secondsCyberpunk, a really old audience anime, and they targeted that specific audience. People see, oh, a [ __ ]
+13:3713 minutes, 37 secondsCyberpunk game on Roblox. I'm going to play this. This has never been on Roblox. Cyber Punk is not popular on Roblox. I'm going to [ __ ] play this
+13:4513 minutes, 45 secondsgame. The developers took the opportunity, right? They saw that, oh, this new season is about to come out on Cyberpunk, right? Cyberpunk season 2.
+13:5313 minutes, 53 secondsThey have a really old audience, okay?
+13:5613 minutes, 56 secondsAnd this audience is really strong and they love the anime. So, why not make a game about it? Okay. And this survive a
+14:0314 minutes, 3 secondsniche has been popping off lately. Like survive the hulk. I know you guys seen that. Survive the whatever. All right.
+14:1014 minutes, 10 secondsThe survivor niche has been really popular. So, they applied a really strong community anime to the surviving niche. And this is why this game does so
+14:1814 minutes, 18 secondswell. And that's all I really want to talk about in this video is to try to help you guys find a good game idea because I've been seeing so many games
+Chapter 10: Community and closing thoughts
+14:2514 minutes, 25 secondsin my Discord and they have all been [ __ ] [ __ ] except maybe one or two that are actually unique and stand out to me, right? Yeah, we're about to hit a
+14:3414 minutes, 34 secondsthousand members in my Discord. If you guys want help from me, if you guys want help from other developers, make sure you join the Discord. It's also really good for networking and stuff like that.
+14:4414 minutes, 44 secondsIt's really good to be in a Discord community full of other people that are trying to do the same thing as you. And yeah, that's all I want to talk about.
+
+Sync to video time
